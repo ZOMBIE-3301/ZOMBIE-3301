@@ -1,6 +1,6 @@
 ![discord-hacking](https://user-images.githubusercontent.com/103543395/198284725-31b1b381-bf29-42b0-a468-c4e8b8eaa64c.gif)
 
-<h1 align="center">THIS IS ZOMBIE</h1>
+![PicsArt_10-27-06 39 38](https://user-images.githubusercontent.com/103543395/198286687-c85e9e09-b170-4d86-855c-9186824b8b10.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zombie-3301&label=Profile%20views&color=0e75b6&style=flat" alt="zombie-3301" /> </p>
 
