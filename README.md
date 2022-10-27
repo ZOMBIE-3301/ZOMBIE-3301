@@ -1,8 +1,7 @@
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+![discord-hacking](https://user-images.githubusercontent.com/103543395/198284725-31b1b381-bf29-42b0-a468-c4e8b8eaa64c.gif)
 
 <h1 align="center">THIS IS ZOMBIE</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zombie-3301&label=Profile%20views&color=0e75b6&style=flat" alt="zombie-3301" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zombie-3301" alt="zombie-3301" /></a> </p>
